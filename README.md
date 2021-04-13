@@ -25,4 +25,5 @@ It would have been useful to understand the correlation and the magnitude each t
 Finally, we want to look at different stocks within r/wallstreetbets and in other communities (e.g., Twitter, Facebook). If after analyzing their feature’s tendency and it displays highly correlated tendencies with GME as well, this could indicate on which platform the stock(s) being discussed might be best situated for increased trading volume.
 
 
-More details: https://drive.google.com/file/d/12Kke5hL5cUA18DXx6Gq5ARYKd5DcsM4g/view?usp=sharing
+# More details: 
+https://drive.google.com/file/d/12Kke5hL5cUA18DXx6Gq5ARYKd5DcsM4g/view?usp=sharing
